@@ -147,13 +147,11 @@ It will install all this tools:
     - docker command line completion
 
   ### Languages
-  The main languages I am working with are Java and Go, but here are some of the main languages you always need, on projects.
+  The main languages I am working with are Python and Nodejs, but here are some of the main languages you always need, on projects.
 
   - **Java**  
     Install the last version of the `openJDK` JVM.  
     It also install `maven` and `gradle`.
-  - **Go / Golang**  
-    Install the last `go` version and set `GOPATH` into your shell profile file.
   - **NodeJS**  
     Install `nvm` and the last version of `nodejs`.
   - **Python**  
@@ -190,12 +188,8 @@ It will install all this tools:
     The Collaboration Hub.
     I am not sure I need to present what is slack.
 
-  - ### [Spotify](http://spotify.com/)
-    Music streaming.
 
-  - ### [Whatsapp](https://www.whatsapp.com/)
-    Messaging system.
-    I am not sure I need to present what is whatsapp.
+    Music streaming.
 
   - ### [VLC](https://www.videolan.org)
     Free and open source cross-platform multimedia player that plays most multimedia files, and various streaming protocols.
@@ -206,7 +200,6 @@ It will install all this tools:
   Here we install, the 3 main one:
   - [Google Chrome](https://www.google.com/chrome/)
   - [Mozilla Firefox](https://www.mozilla.org/firefox/)
-  - [Microsoft Edge](https://www.microsoft.com/edge)
 
 # How can I contribute?
 
