@@ -85,10 +85,8 @@ brew cask install font-jetbrains-mono
 # Browser
 brew cask install google-chrome
 brew cask install firefox
-brew cask install microsoft-edge
 
 # Music / Video
-brew cask install spotify
 brew cask install vlc
 
 # Productivity
@@ -105,7 +103,6 @@ brew cask install ngrok                                                         
 brew cask install postman                                                                             # Postman makes sending API requests simple.
 
 # IDE
-brew cask install jetbrains-toolbox
 brew cask install visual-studio-code
 
 # Language
